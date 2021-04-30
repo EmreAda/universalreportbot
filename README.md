@@ -4,7 +4,7 @@ Built with jda.
 
 ## TODO
 ```
-- [x] Json handler
+- [x] Json handler for config
 - [ ] Bot core
 - [ ] Network system
 - [ ] Report system
